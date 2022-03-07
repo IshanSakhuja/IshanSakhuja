@@ -3,8 +3,7 @@
 <!--
 **IshanSakhuja/IshanSakhuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe align='right' src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="30%" height="30%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
