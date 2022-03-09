@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Python | JavaScript | C++ | Dart | Java | SQL
 
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | Firebase | NodeJS 
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | Firebase | Machine Learning 
 
 
 <!--
